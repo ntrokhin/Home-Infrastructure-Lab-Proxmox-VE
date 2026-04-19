@@ -29,6 +29,10 @@
 
 Zabbix + скрипты проверки срока сертификата в [`scripts/monitoring/`](scripts/monitoring/).
 
+## Связанные проекты
+
+- **[proxmox-iac-terraform](https://github.com/ntrokhin/proxmox-iac-terraform)** — Infrastructure as Code: автоматизация развёртывания ВМ в Proxmox через Terraform и CI/CD (Gitea Actions).
+
 ## Автор
 
 **ntrokhin**
