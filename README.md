@@ -35,4 +35,4 @@ Zabbix + скрипты проверки срока сертификата в [`
 
 ## Автор
 
-**ntrokhin**
+[ntrokhin](https://github.com/ntrokhin)
